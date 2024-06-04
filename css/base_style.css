@@ -301,12 +301,14 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--color-font);
   margin: 0 1rem;
 }
 .codepilot-logo .logo span {
   font-size: 2.1rem;
   font-weight: 600;
+  color: var(--color-font);
+  filter: drop-shadow(0 0 8px var(--color-font));
+  mix-blend-mode: color-burn;
   transition: all 0.3s linear;
 }
 .codepilot-logo .logo svg {
