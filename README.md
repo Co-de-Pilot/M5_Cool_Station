@@ -3,6 +3,6 @@
 A weboldal az alábbi linken elérhető:
 
 LINK:
-https://co-de-pilot.github.io/ACS_Kecskemet/
+https://co-de-pilot.github.io/M5_Cool_Station/
 
-Szálláshely bemutatkozó weboldal.
+M5 Cool Station vendégház bemutatkozó weboldal.
